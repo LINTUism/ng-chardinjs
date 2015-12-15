@@ -1,0 +1,28 @@
+{
+  "name": "ng-chardinjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/LINTUism/ng-chardinjs",
+  "authors": [
+    "LIJIN AR <lijinlar@gmail.com>"
+  ],
+  "description": "Angular wrapper directive for chardinjs",
+  "main": ["chardinjs.js","chardinjs.css","ng-chardinjs.js"],
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "angular",
+    "chardin",
+    "ng-chardinjs",
+    "chardinjs"
+  ],
+  "license": "Apache License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
