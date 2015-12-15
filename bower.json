@@ -16,13 +16,5 @@
     "ng-chardinjs",
     "chardinjs"
   ],
-  "license": "Apache License",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "client/bower_components",
-    "test",
-    "tests"
-  ]
+  "license": "Apache License"
 }
